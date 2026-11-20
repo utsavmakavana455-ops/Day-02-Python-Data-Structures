@@ -179,10 +179,4 @@ Today I learned:
 - Key-value pairs
 - Basic data organization
 
-**Status:** Day 2 – In Progress
 
-**Next:** Day 3 – Conditional Statements, For Loops and While Loops.
-
----
-
-⭐ Consistency is the key to mastering Machine Learning. One day at a time! 🚀
